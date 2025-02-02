@@ -1,7 +1,6 @@
 # Flashy
 
-> _Starting now, things are going to get real flashy!_ - Tengen Uzui
+This is a port of [mjlaufer/flashy.nvim](https://www.github.com/mjlaufer/flashy.nvim) for TextMate.
 
-Flashy is a dark theme for TextMate.
+I use this for [lazygit](https://github.com/jesseduffield/lazygit) (and `git diff`) syntax highlighting via [git-delta](https://github.com/dandavison/delta) and [bat](https://github.com/sharkdp/bat).
 
-This is a port of [mjlaufer/flashy.nvim](https://www.github.com/mjlaufer/flashy.nvim).
